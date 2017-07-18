@@ -1,0 +1,26 @@
+div #wrapper{
+  width : 970px;
+  background-color: DarkBlue;
+}
+div #topbanner{
+  margin: 20px 10px;
+  background-color: red;
+  color:white;
+
+
+}
+div #navbar{
+  display: inline-block;
+  vertical-align: top;
+}
+
+div #content{
+  display: inline-block;
+  vertical-align: top;
+}
+
+div #bottombanner{
+
+
+
+}
