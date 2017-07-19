@@ -24,7 +24,8 @@ div #navbar{
   background-color: CornflowerBlue;
   padding: 10px;
   border-radius: 10px;
-  margin:10px 10px;
+  margin:0px 10px;
+  width:185px
 }
 ul{
   padding-right: 5px;
@@ -33,14 +34,24 @@ ul{
 
 div #content{
   display: inline-block;
+  padding:10px;
+  border-radius: 10px;
   vertical-align: top;
+  color:white;
+  background-color: Black;
+  width:720px;
+  margin:0px 0px 10px 0px;
+  opacity: 20%;
 }
+span.purple{
+color:purple;
 
+}
 div #bottombanner{
   border-radius: 10px;
   margin:10px 10px;
   background-color: grey;
-  padding: 5px;
+  padding: 10px;
   color:white;
 
 
